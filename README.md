@@ -7,7 +7,6 @@
 This proyect was made on August 29, 2021. 
 * We used the python library scikit-learn for training the model through machine learning.
 * Pandas for the cleanse of data.
-* Numpy to manage the large amounts of data.
 * Matplotlib to graph our results.
 
 Made by: Paulina López, José Rositas, Pablo Navarro, Jorge del Barco
